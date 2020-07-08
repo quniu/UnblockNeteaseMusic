@@ -4,5 +4,7 @@
 
 Dockerfile*
 *.yml
-hooks/
+
 src/browser/
+ca.*
+*.worker.js
